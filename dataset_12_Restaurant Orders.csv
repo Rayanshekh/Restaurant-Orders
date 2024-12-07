@@ -1,0 +1,1001 @@
+Date,Product,Region,Customer_Type,Quantity,Price,Discount,Revenue
+2024-02-09,Appetizer,North,Dine-in,14,26.01,0.15,309.52
+2024-02-08,Beverage,South,Takeaway,8,29.22,0.09,212.72
+2024-02-15,Appetizer,West,Dine-in,18,98.65,0.02,1740.19
+2024-12-04,Dessert,North,Dine-in,11,82.76,0.02,892.15
+2024-10-12,Beverage,East,Dine-in,1,25.76,0.07,23.96
+2024-01-10,Dessert,East,Takeaway,15,25.4,0.28,274.32
+2024-06-09,Beverage,West,Dine-in,7,42.89,0.12,264.2
+2024-04-14,Dessert,East,Takeaway,8,82.71,0.06,621.98
+2024-10-21,Main Course,West,Takeaway,3,80.89,0.25,182.0
+2024-09-01,Beverage,North,Dine-in,3,49.39,0.08,136.32
+2024-04-03,Appetizer,West,Dine-in,18,99.05,0.04,1711.58
+2024-12-23,Appetizer,North,Takeaway,5,83.55,0.02,409.4
+2024-01-17,Main Course,South,Takeaway,15,88.76,0.25,998.55
+2024-07-14,Main Course,South,Takeaway,10,90.65,0.2,725.2
+2024-08-10,Main Course,South,Takeaway,4,15.83,0.28,45.59
+2024-07-07,Dessert,West,Dine-in,19,95.49,0.26,1342.59
+2024-02-06,Beverage,North,Takeaway,5,25.46,0.17,105.66
+2024-10-15,Main Course,West,Takeaway,7,9.61,0.16,56.51
+2024-03-11,Main Course,South,Takeaway,3,95.43,0.29,203.27
+2024-08-02,Beverage,North,Takeaway,13,6.98,0.09,82.57
+2024-02-18,Appetizer,South,Takeaway,17,68.37,0.19,941.45
+2024-09-14,Main Course,East,Dine-in,18,41.46,0.2,597.02
+2024-08-27,Main Course,South,Takeaway,12,85.29,0.23,788.08
+2024-06-09,Beverage,North,Dine-in,18,66.3,0.22,930.85
+2024-01-25,Dessert,South,Takeaway,8,36.26,0.08,266.87
+2024-05-25,Beverage,North,Takeaway,1,77.13,0.16,64.79
+2024-04-27,Appetizer,South,Dine-in,19,24.61,0.1,420.83
+2024-10-28,Dessert,East,Dine-in,20,28.85,0.22,450.06
+2024-02-03,Dessert,East,Takeaway,7,78.12,0.22,426.54
+2024-11-14,Appetizer,East,Dine-in,7,82.33,0.03,559.02
+2024-10-27,Beverage,West,Takeaway,13,50.74,0.24,501.31
+2024-03-11,Main Course,East,Takeaway,14,50.04,0.06,658.53
+2024-07-18,Beverage,South,Dine-in,12,43.95,0.13,458.84
+2024-11-29,Beverage,North,Takeaway,14,81.35,0.06,1070.57
+2024-04-04,Dessert,East,Dine-in,9,93.47,0.0,841.23
+2024-12-05,Dessert,West,Dine-in,10,62.56,0.16,525.5
+2024-09-07,Appetizer,South,Takeaway,4,51.79,0.08,190.59
+2024-04-06,Beverage,South,Takeaway,10,63.33,0.19,512.97
+2024-03-09,Beverage,North,Dine-in,16,61.35,0.1,883.44
+2024-11-01,Appetizer,East,Dine-in,18,86.83,0.19,1265.98
+2024-04-14,Main Course,North,Takeaway,4,59.15,0.11,210.57
+2024-10-01,Appetizer,East,Takeaway,15,48.4,0.08,667.92
+2024-11-02,Appetizer,South,Dine-in,13,76.91,0.28,719.88
+2024-07-07,Beverage,East,Dine-in,14,91.07,0.23,981.73
+2024-01-09,Beverage,North,Takeaway,11,42.91,0.15,401.21
+2024-09-07,Appetizer,South,Takeaway,20,11.72,0.17,194.55
+2024-05-06,Dessert,North,Takeaway,20,65.07,0.04,1249.34
+2024-11-27,Dessert,East,Dine-in,8,27.25,0.27,159.14
+2024-10-27,Beverage,North,Takeaway,14,17.63,0.27,180.18
+2024-12-08,Dessert,South,Dine-in,19,31.88,0.16,508.8
+2024-08-18,Beverage,West,Takeaway,8,64.27,0.28,370.2
+2024-07-15,Main Course,West,Dine-in,9,20.21,0.24,138.24
+2024-02-10,Main Course,West,Dine-in,3,48.34,0.24,110.22
+2024-07-14,Appetizer,South,Takeaway,20,68.7,0.12,1209.12
+2024-03-26,Main Course,North,Dine-in,14,73.35,0.07,955.02
+2024-05-04,Beverage,South,Takeaway,2,9.96,0.24,15.14
+2024-07-27,Main Course,East,Takeaway,2,13.61,0.27,19.87
+2024-04-18,Dessert,North,Takeaway,9,55.7,0.21,396.03
+2024-09-02,Beverage,West,Dine-in,7,13.99,0.07,91.07
+2024-01-08,Dessert,East,Takeaway,12,78.33,0.13,817.77
+2024-10-31,Main Course,East,Dine-in,8,74.38,0.08,547.44
+2024-05-14,Appetizer,North,Takeaway,4,6.83,0.26,20.22
+2024-05-28,Beverage,South,Dine-in,7,31.76,0.2,177.86
+2024-01-10,Appetizer,South,Takeaway,3,30.02,0.29,63.94
+2024-03-28,Beverage,West,Takeaway,16,58.93,0.28,678.87
+2024-12-22,Beverage,West,Dine-in,16,76.49,0.18,1003.55
+2024-02-22,Dessert,South,Dine-in,12,98.74,0.25,888.66
+2024-07-02,Dessert,North,Takeaway,8,10.71,0.16,71.97
+2024-03-21,Dessert,South,Takeaway,11,48.0,0.29,374.88
+2024-08-14,Main Course,North,Dine-in,12,96.44,0.24,879.53
+2024-09-26,Dessert,South,Takeaway,12,60.4,0.01,717.55
+2024-12-29,Main Course,South,Dine-in,8,67.88,0.22,423.57
+2024-12-11,Main Course,East,Dine-in,12,9.08,0.1,98.06
+2024-09-15,Beverage,East,Takeaway,12,42.78,0.24,390.15
+2024-05-21,Dessert,South,Takeaway,15,66.6,0.2,799.2
+2024-04-08,Main Course,West,Takeaway,11,61.01,0.04,644.27
+2024-11-13,Beverage,West,Takeaway,17,10.62,0.29,128.18
+2024-01-20,Appetizer,East,Dine-in,18,91.73,0.03,1601.61
+2024-06-16,Beverage,South,Takeaway,19,64.07,0.23,937.34
+2024-05-16,Main Course,West,Takeaway,8,11.71,0.07,87.12
+2024-01-17,Beverage,North,Takeaway,7,47.96,0.17,278.65
+2024-09-14,Main Course,East,Takeaway,16,92.02,0.15,1251.47
+2024-08-31,Dessert,South,Dine-in,6,28.38,0.17,141.33
+2024-11-18,Beverage,West,Takeaway,9,58.87,0.26,392.07
+2024-11-05,Dessert,East,Dine-in,5,79.75,0.18,326.98
+2024-08-19,Dessert,West,Dine-in,18,21.05,0.09,344.8
+2024-10-25,Beverage,South,Takeaway,19,61.67,0.15,995.97
+2024-03-23,Beverage,North,Dine-in,19,99.7,0.18,1553.33
+2024-04-20,Dessert,East,Takeaway,18,38.84,0.05,664.16
+2024-06-10,Main Course,South,Takeaway,6,94.56,0.02,556.01
+2024-01-20,Main Course,South,Dine-in,17,22.65,0.14,331.14
+2024-07-19,Dessert,East,Dine-in,3,26.78,0.27,58.65
+2024-11-22,Main Course,West,Takeaway,14,36.62,0.2,410.14
+2024-03-13,Appetizer,South,Dine-in,15,61.31,0.23,708.13
+2024-04-22,Appetizer,East,Takeaway,13,78.04,0.13,882.63
+2024-06-05,Beverage,West,Dine-in,17,7.79,0.01,131.11
+2024-03-17,Beverage,South,Dine-in,1,83.63,0.14,71.92
+2024-09-07,Appetizer,West,Dine-in,17,16.81,0.08,262.91
+2024-10-17,Appetizer,South,Takeaway,12,79.22,0.19,770.02
+2024-11-19,Dessert,North,Takeaway,17,90.49,0.02,1507.56
+2024-07-16,Main Course,West,Dine-in,3,86.54,0.23,199.91
+2024-05-01,Beverage,East,Dine-in,8,33.26,0.27,194.24
+2024-07-29,Dessert,West,Takeaway,15,54.51,0.23,629.59
+2024-11-24,Beverage,South,Dine-in,8,92.33,0.19,598.3
+2024-10-09,Main Course,East,Takeaway,3,23.87,0.17,59.44
+2024-06-12,Dessert,West,Takeaway,2,32.48,0.2,51.97
+2024-11-01,Main Course,North,Dine-in,14,44.03,0.04,591.76
+2024-04-02,Dessert,South,Takeaway,6,26.52,0.1,143.21
+2024-06-13,Beverage,North,Dine-in,11,69.35,0.25,572.14
+2024-05-23,Main Course,East,Dine-in,15,73.61,0.01,1093.11
+2024-08-31,Dessert,East,Dine-in,2,23.49,0.08,43.22
+2024-04-03,Main Course,West,Takeaway,20,71.24,0.15,1211.08
+2024-08-25,Appetizer,North,Takeaway,13,60.11,0.29,554.82
+2024-03-30,Dessert,North,Takeaway,11,78.7,0.22,675.25
+2024-02-21,Main Course,West,Dine-in,9,56.08,0.11,449.2
+2024-08-15,Beverage,West,Takeaway,4,64.75,0.03,251.23
+2024-06-30,Dessert,West,Dine-in,18,94.48,0.19,1377.52
+2024-01-09,Main Course,East,Takeaway,7,52.4,0.1,330.12
+2024-06-20,Appetizer,North,Dine-in,17,91.48,0.16,1306.33
+2024-10-25,Main Course,East,Dine-in,12,29.67,0.01,352.48
+2024-12-14,Main Course,East,Dine-in,8,36.49,0.1,262.73
+2024-02-10,Beverage,East,Takeaway,15,34.55,0.17,430.15
+2024-05-31,Dessert,North,Dine-in,19,87.15,0.3,1159.1
+2024-09-23,Appetizer,West,Takeaway,6,19.63,0.22,91.87
+2024-04-17,Dessert,East,Takeaway,3,62.62,0.1,169.07
+2024-10-18,Beverage,North,Takeaway,18,99.65,0.21,1417.02
+2024-10-05,Main Course,East,Takeaway,20,91.3,0.27,1332.98
+2024-03-01,Beverage,South,Dine-in,10,47.48,0.21,375.09
+2024-02-09,Dessert,South,Takeaway,15,51.44,0.1,694.44
+2024-05-09,Main Course,East,Takeaway,1,70.62,0.18,57.91
+2024-05-29,Beverage,East,Dine-in,16,12.97,0.14,178.47
+2024-07-18,Dessert,West,Dine-in,2,70.62,0.0,141.24
+2024-02-15,Main Course,West,Takeaway,8,84.57,0.15,575.08
+2024-12-24,Beverage,South,Takeaway,8,64.81,0.27,378.49
+2024-06-08,Appetizer,West,Dine-in,10,46.9,0.3,328.3
+2024-06-27,Dessert,West,Takeaway,6,48.08,0.14,248.09
+2024-10-26,Main Course,North,Takeaway,6,18.93,0.23,87.46
+2024-06-25,Dessert,East,Dine-in,10,76.39,0.01,756.26
+2024-12-05,Dessert,West,Dine-in,19,59.01,0.21,885.74
+2024-06-24,Appetizer,West,Takeaway,9,93.01,0.28,602.7
+2024-03-29,Main Course,East,Dine-in,2,54.22,0.16,91.09
+2024-12-28,Main Course,West,Takeaway,14,65.01,0.13,791.82
+2024-09-23,Main Course,South,Dine-in,20,79.28,0.11,1411.18
+2024-08-12,Appetizer,North,Takeaway,20,13.12,0.28,188.93
+2024-06-22,Dessert,North,Takeaway,11,45.86,0.15,428.79
+2024-03-29,Main Course,South,Takeaway,12,63.69,0.12,672.57
+2024-04-21,Appetizer,East,Takeaway,6,29.96,0.12,158.19
+2024-01-11,Main Course,West,Dine-in,3,52.73,0.28,113.9
+2024-05-28,Beverage,South,Dine-in,6,81.5,0.07,454.77
+2024-02-15,Main Course,North,Dine-in,12,14.93,0.08,164.83
+2024-09-07,Main Course,South,Takeaway,14,31.05,0.06,408.62
+2024-11-26,Dessert,West,Takeaway,5,46.02,0.25,172.58
+2024-04-05,Main Course,South,Takeaway,11,93.14,0.15,870.86
+2024-08-10,Dessert,West,Dine-in,16,47.9,0.18,628.45
+2024-04-03,Beverage,North,Takeaway,2,77.35,0.13,134.59
+2024-08-21,Main Course,West,Dine-in,17,10.2,0.11,154.33
+2024-07-31,Main Course,West,Takeaway,6,74.44,0.24,339.45
+2024-06-24,Beverage,South,Dine-in,6,78.29,0.29,333.52
+2024-11-23,Beverage,North,Dine-in,3,10.44,0.29,22.24
+2024-09-12,Main Course,West,Dine-in,2,89.1,0.09,162.16
+2024-07-22,Dessert,West,Takeaway,13,63.36,0.09,749.55
+2024-07-27,Main Course,West,Takeaway,2,88.65,0.19,143.61
+2024-12-16,Appetizer,East,Takeaway,10,73.0,0.26,540.2
+2024-03-29,Main Course,South,Takeaway,14,28.36,0.23,305.72
+2024-04-24,Beverage,West,Takeaway,15,75.81,0.23,875.61
+2024-05-01,Beverage,East,Takeaway,10,75.93,0.3,531.51
+2024-10-09,Main Course,East,Dine-in,18,8.99,0.24,122.98
+2024-08-23,Appetizer,East,Dine-in,10,24.81,0.11,220.81
+2024-10-31,Appetizer,North,Takeaway,9,6.92,0.08,57.3
+2024-05-05,Beverage,North,Dine-in,20,90.76,0.23,1397.7
+2024-12-30,Dessert,East,Takeaway,2,26.82,0.04,51.49
+2024-09-01,Appetizer,South,Takeaway,1,93.99,0.11,83.65
+2024-03-13,Appetizer,North,Takeaway,13,25.59,0.05,316.04
+2024-03-24,Main Course,North,Takeaway,18,46.65,0.19,680.16
+2024-10-20,Dessert,West,Takeaway,3,65.91,0.04,189.82
+2024-07-10,Appetizer,South,Takeaway,5,81.75,0.01,404.66
+2024-08-22,Beverage,North,Dine-in,17,18.72,0.22,248.23
+2024-11-13,Beverage,North,Takeaway,11,80.64,0.13,771.72
+2024-10-17,Dessert,South,Takeaway,13,51.16,0.21,525.41
+2024-01-27,Appetizer,East,Takeaway,6,61.39,0.06,346.24
+2024-07-02,Beverage,North,Dine-in,8,70.67,0.02,554.05
+2024-02-19,Beverage,South,Takeaway,10,51.91,0.15,441.23
+2024-11-21,Appetizer,South,Takeaway,3,16.46,0.21,39.01
+2024-06-21,Appetizer,West,Dine-in,17,79.44,0.08,1242.44
+2024-05-09,Main Course,North,Takeaway,11,92.23,0.04,973.95
+2024-07-20,Beverage,North,Takeaway,14,64.75,0.05,861.18
+2024-06-13,Appetizer,South,Takeaway,8,7.32,0.29,41.58
+2024-11-02,Main Course,North,Dine-in,6,30.27,0.24,138.03
+2024-10-24,Appetizer,East,Dine-in,17,94.02,0.08,1470.47
+2024-08-02,Main Course,West,Takeaway,18,80.04,0.2,1152.58
+2024-11-02,Main Course,South,Dine-in,5,46.02,0.24,174.88
+2024-04-10,Appetizer,South,Takeaway,8,35.93,0.1,258.7
+2024-11-26,Appetizer,West,Dine-in,20,24.07,0.09,438.07
+2024-03-02,Main Course,North,Takeaway,9,75.15,0.2,541.08
+2024-08-08,Dessert,South,Takeaway,19,59.62,0.2,906.22
+2024-08-29,Main Course,South,Takeaway,2,56.26,0.19,91.14
+2024-05-28,Dessert,West,Takeaway,16,43.48,0.07,646.98
+2024-05-18,Appetizer,South,Takeaway,2,51.92,0.03,100.72
+2024-01-03,Dessert,East,Dine-in,10,82.96,0.2,663.68
+2024-01-17,Main Course,North,Dine-in,12,27.86,0.24,254.08
+2024-08-12,Appetizer,North,Dine-in,18,60.33,0.28,781.88
+2024-08-08,Appetizer,West,Dine-in,1,60.58,0.11,53.92
+2024-02-19,Dessert,West,Takeaway,11,65.82,0.14,622.66
+2024-10-27,Dessert,North,Takeaway,13,34.22,0.26,329.2
+2024-11-08,Main Course,North,Dine-in,7,7.25,0.28,36.54
+2024-06-10,Main Course,West,Dine-in,13,59.1,0.02,752.93
+2024-10-01,Beverage,East,Takeaway,14,79.06,0.24,841.2
+2024-01-06,Dessert,West,Dine-in,10,15.9,0.12,139.92
+2024-09-13,Beverage,West,Dine-in,20,57.6,0.25,864.0
+2024-01-15,Beverage,South,Takeaway,2,39.43,0.3,55.2
+2024-08-28,Main Course,East,Takeaway,17,10.51,0.26,132.22
+2024-05-27,Appetizer,South,Takeaway,5,46.58,0.22,181.66
+2024-03-25,Appetizer,West,Dine-in,9,41.22,0.25,278.24
+2024-10-01,Main Course,South,Dine-in,1,73.65,0.19,59.66
+2024-07-05,Appetizer,North,Dine-in,10,94.15,0.29,668.46
+2024-09-18,Main Course,East,Takeaway,9,31.73,0.17,237.02
+2024-02-04,Dessert,East,Takeaway,8,42.77,0.11,304.52
+2024-06-27,Appetizer,North,Takeaway,6,83.0,0.13,433.26
+2024-03-27,Main Course,East,Takeaway,2,16.7,0.27,24.38
+2024-12-10,Main Course,North,Takeaway,3,8.28,0.07,23.1
+2024-12-25,Dessert,North,Dine-in,12,37.27,0.13,389.1
+2024-09-18,Dessert,South,Takeaway,20,51.19,0.28,737.14
+2024-07-06,Appetizer,South,Takeaway,12,39.03,0.18,384.06
+2024-08-15,Beverage,East,Dine-in,9,8.14,0.26,54.21
+2024-11-30,Appetizer,West,Dine-in,9,50.81,0.03,443.57
+2024-10-25,Dessert,South,Dine-in,1,22.39,0.08,20.6
+2024-09-04,Appetizer,West,Dine-in,3,57.99,0.24,132.22
+2024-01-29,Main Course,East,Dine-in,3,86.96,0.18,213.92
+2024-06-20,Dessert,North,Dine-in,18,50.27,0.01,895.81
+2024-06-09,Beverage,South,Dine-in,4,14.7,0.24,44.69
+2024-01-19,Beverage,West,Takeaway,9,52.02,0.13,407.32
+2024-03-13,Main Course,East,Takeaway,4,31.17,0.22,97.25
+2024-12-05,Main Course,South,Takeaway,17,54.43,0.04,888.3
+2024-12-23,Beverage,West,Dine-in,6,80.56,0.26,357.69
+2024-12-20,Appetizer,East,Takeaway,13,62.57,0.21,642.59
+2024-05-10,Dessert,South,Dine-in,6,6.39,0.08,35.27
+2024-08-23,Beverage,North,Dine-in,14,21.97,0.16,258.37
+2024-09-27,Appetizer,East,Dine-in,1,94.42,0.17,78.37
+2024-08-07,Appetizer,North,Takeaway,19,26.63,0.15,430.07
+2024-10-12,Appetizer,East,Takeaway,1,64.25,0.07,59.75
+2024-03-18,Appetizer,East,Takeaway,14,97.58,0.03,1325.14
+2024-10-06,Beverage,East,Dine-in,15,91.67,0.07,1278.8
+2024-07-28,Main Course,South,Dine-in,17,19.91,0.12,297.85
+2024-02-15,Appetizer,South,Takeaway,3,95.82,0.2,229.97
+2024-05-10,Appetizer,West,Takeaway,17,66.88,0.03,1102.85
+2024-10-31,Dessert,South,Dine-in,9,28.41,0.24,194.32
+2024-02-12,Main Course,South,Dine-in,17,96.19,0.05,1553.47
+2024-02-12,Dessert,South,Takeaway,15,22.04,0.1,297.54
+2024-05-04,Beverage,West,Takeaway,10,10.9,0.23,83.93
+2024-07-14,Main Course,South,Takeaway,3,7.95,0.2,19.08
+2024-01-01,Appetizer,North,Dine-in,12,62.64,0.27,548.73
+2024-03-23,Beverage,West,Takeaway,13,49.45,0.2,514.28
+2024-02-28,Main Course,South,Dine-in,12,29.41,0.16,296.45
+2024-04-27,Dessert,North,Dine-in,1,40.66,0.21,32.12
+2024-09-18,Beverage,West,Takeaway,10,74.13,0.06,696.82
+2024-10-20,Beverage,South,Dine-in,12,89.85,0.07,1002.73
+2024-09-22,Beverage,North,Dine-in,19,6.78,0.16,108.21
+2024-11-10,Dessert,South,Takeaway,10,85.54,0.02,838.29
+2024-02-26,Dessert,South,Takeaway,19,45.84,0.21,688.06
+2024-05-10,Main Course,East,Takeaway,17,25.88,0.09,400.36
+2024-10-26,Main Course,North,Takeaway,8,12.22,0.15,83.1
+2024-03-12,Dessert,East,Dine-in,2,82.48,0.07,153.41
+2024-08-08,Main Course,West,Takeaway,14,37.2,0.11,463.51
+2024-12-02,Beverage,North,Takeaway,13,8.66,0.22,87.81
+2024-12-08,Dessert,East,Dine-in,17,81.12,0.1,1241.14
+2024-09-14,Main Course,West,Takeaway,8,68.58,0.02,537.67
+2024-09-07,Beverage,North,Takeaway,19,80.96,0.11,1369.03
+2024-03-23,Beverage,South,Takeaway,19,82.22,0.03,1515.31
+2024-04-08,Appetizer,East,Dine-in,12,32.93,0.15,335.89
+2024-10-13,Main Course,North,Takeaway,3,55.55,0.18,136.65
+2024-07-03,Dessert,South,Dine-in,17,32.0,0.06,511.36
+2024-10-09,Beverage,South,Takeaway,3,43.9,0.11,117.21
+2024-10-20,Main Course,North,Dine-in,12,42.58,0.06,480.3
+2024-03-17,Beverage,West,Dine-in,19,59.16,0.03,1090.32
+2024-08-28,Dessert,South,Takeaway,20,24.48,0.07,455.33
+2024-04-10,Dessert,East,Takeaway,1,89.61,0.06,84.23
+2024-01-09,Appetizer,West,Dine-in,15,54.56,0.02,802.03
+2024-06-30,Beverage,South,Dine-in,16,7.38,0.26,87.38
+2024-08-31,Beverage,South,Takeaway,20,99.89,0.18,1638.2
+2024-12-31,Main Course,South,Dine-in,4,28.44,0.3,79.63
+2024-10-04,Beverage,North,Takeaway,1,66.06,0.27,48.22
+2024-12-07,Main Course,East,Dine-in,13,5.57,0.05,68.79
+2024-12-27,Dessert,South,Takeaway,8,63.45,0.16,426.38
+2024-04-23,Dessert,South,Takeaway,12,15.97,0.05,182.06
+2024-02-26,Main Course,East,Dine-in,19,35.77,0.22,530.11
+2024-03-01,Appetizer,East,Takeaway,13,92.6,0.26,890.81
+2024-04-28,Main Course,West,Takeaway,10,12.35,0.21,97.56
+2024-09-19,Main Course,South,Takeaway,2,99.0,0.16,166.32
+2024-04-01,Main Course,West,Takeaway,9,59.96,0.08,496.47
+2024-09-24,Dessert,South,Takeaway,3,52.19,0.2,125.26
+2024-07-12,Beverage,South,Dine-in,5,96.4,0.23,371.14
+2024-08-14,Main Course,West,Dine-in,3,34.35,0.24,78.32
+2024-04-10,Beverage,West,Takeaway,11,11.62,0.01,126.54
+2024-04-03,Main Course,East,Dine-in,11,33.38,0.22,286.4
+2024-11-21,Main Course,East,Takeaway,16,54.77,0.09,797.45
+2024-09-25,Appetizer,South,Dine-in,18,89.45,0.05,1529.6
+2024-02-08,Appetizer,West,Dine-in,14,22.99,0.25,241.4
+2024-09-23,Main Course,South,Takeaway,17,25.62,0.06,409.41
+2024-01-11,Main Course,North,Dine-in,18,40.76,0.13,638.3
+2024-01-04,Appetizer,South,Takeaway,11,90.32,0.25,745.14
+2024-03-03,Main Course,South,Takeaway,17,53.9,0.28,659.74
+2024-08-27,Appetizer,North,Dine-in,12,93.14,0.09,1017.09
+2024-06-04,Dessert,West,Dine-in,4,33.91,0.27,99.02
+2024-02-05,Appetizer,West,Takeaway,13,69.49,0.09,822.07
+2024-05-18,Main Course,West,Dine-in,2,46.91,0.21,74.12
+2024-07-11,Beverage,East,Takeaway,1,50.98,0.01,50.47
+2024-09-08,Beverage,South,Dine-in,6,76.73,0.29,326.87
+2024-11-23,Main Course,East,Takeaway,12,20.07,0.03,233.61
+2024-12-07,Appetizer,East,Takeaway,18,87.81,0.17,1311.88
+2024-03-21,Main Course,North,Dine-in,20,77.09,0.13,1341.37
+2024-07-13,Appetizer,South,Takeaway,15,28.39,0.03,413.07
+2024-01-15,Appetizer,West,Dine-in,19,64.66,0.19,995.12
+2024-10-30,Dessert,East,Takeaway,13,64.61,0.17,697.14
+2024-04-30,Dessert,East,Dine-in,7,6.38,0.17,37.07
+2024-05-11,Appetizer,East,Dine-in,15,89.2,0.15,1137.3
+2024-05-08,Appetizer,North,Dine-in,16,30.4,0.06,457.22
+2024-08-23,Beverage,West,Takeaway,8,8.62,0.16,57.93
+2024-09-16,Main Course,East,Dine-in,12,63.02,0.01,748.68
+2024-02-03,Dessert,West,Takeaway,6,92.47,0.25,416.11
+2024-10-08,Main Course,West,Dine-in,13,81.62,0.3,742.74
+2024-02-12,Beverage,North,Dine-in,20,21.4,0.23,329.56
+2024-10-20,Beverage,West,Takeaway,4,29.2,0.19,94.61
+2024-04-28,Beverage,West,Dine-in,3,87.78,0.25,197.51
+2024-03-18,Beverage,North,Takeaway,4,58.69,0.16,197.2
+2024-04-15,Dessert,North,Takeaway,12,66.77,0.19,649.0
+2024-09-27,Dessert,North,Dine-in,9,73.16,0.24,500.41
+2024-11-08,Appetizer,North,Takeaway,17,98.08,0.26,1233.85
+2024-04-12,Beverage,North,Dine-in,17,22.51,0.13,332.92
+2024-07-19,Main Course,East,Takeaway,13,72.17,0.13,816.24
+2024-09-29,Main Course,South,Dine-in,14,41.42,0.23,446.51
+2024-11-03,Beverage,East,Takeaway,19,37.25,0.21,559.12
+2024-10-09,Main Course,South,Takeaway,5,42.23,0.25,158.36
+2024-11-04,Dessert,South,Takeaway,6,92.96,0.14,479.67
+2024-07-12,Main Course,South,Dine-in,16,39.76,0.13,553.46
+2024-09-29,Dessert,South,Takeaway,3,74.01,0.2,177.62
+2024-03-30,Beverage,North,Takeaway,4,42.3,0.19,137.05
+2024-11-24,Dessert,West,Dine-in,17,19.64,0.21,263.77
+2024-10-05,Main Course,South,Dine-in,3,66.57,0.06,187.73
+2024-02-17,Beverage,East,Takeaway,19,37.56,0.1,642.28
+2024-05-21,Main Course,South,Takeaway,3,57.39,0.1,154.95
+2024-11-11,Beverage,East,Dine-in,18,72.88,0.07,1220.01
+2024-01-01,Main Course,West,Dine-in,13,64.36,0.22,652.61
+2024-02-04,Appetizer,East,Takeaway,18,94.4,0.11,1512.29
+2024-12-15,Beverage,West,Takeaway,20,55.13,0.08,1014.39
+2024-09-12,Main Course,North,Dine-in,6,72.29,0.08,399.04
+2024-05-19,Beverage,West,Dine-in,3,61.22,0.06,172.64
+2024-05-18,Appetizer,North,Dine-in,20,72.77,0.28,1047.89
+2024-12-23,Appetizer,South,Dine-in,20,6.54,0.01,129.49
+2024-09-24,Appetizer,South,Dine-in,14,33.06,0.02,453.58
+2024-02-01,Dessert,South,Takeaway,20,44.82,0.16,752.98
+2024-03-08,Main Course,East,Dine-in,8,86.53,0.25,519.18
+2024-09-17,Dessert,West,Takeaway,15,59.51,0.27,651.63
+2024-07-02,Main Course,West,Dine-in,18,18.87,0.23,261.54
+2024-06-23,Appetizer,West,Takeaway,13,69.99,0.23,700.6
+2024-04-12,Main Course,South,Dine-in,13,99.03,0.14,1107.16
+2024-05-04,Appetizer,North,Dine-in,5,23.84,0.26,88.21
+2024-08-22,Dessert,South,Takeaway,10,48.99,0.21,387.02
+2024-01-17,Beverage,East,Takeaway,15,79.49,0.08,1096.96
+2024-03-01,Appetizer,North,Dine-in,18,64.57,0.26,860.07
+2024-04-10,Appetizer,North,Dine-in,7,85.59,0.1,539.22
+2024-02-28,Beverage,West,Dine-in,16,22.73,0.09,330.95
+2024-02-13,Appetizer,West,Takeaway,1,34.11,0.04,32.75
+2024-06-27,Dessert,West,Takeaway,2,63.23,0.28,91.05
+2024-07-21,Main Course,North,Takeaway,16,62.33,0.08,917.5
+2024-09-27,Beverage,East,Dine-in,19,89.94,0.29,1213.29
+2024-06-20,Appetizer,East,Takeaway,9,16.5,0.01,147.01
+2024-07-09,Beverage,West,Takeaway,6,92.29,0.07,514.98
+2024-10-15,Beverage,West,Takeaway,18,19.97,0.22,280.38
+2024-06-24,Dessert,North,Takeaway,13,54.2,0.21,556.63
+2024-11-28,Beverage,West,Dine-in,18,80.89,0.15,1237.62
+2024-06-14,Appetizer,North,Dine-in,14,28.76,0.19,326.14
+2024-10-01,Main Course,North,Dine-in,15,76.84,0.17,956.66
+2024-11-17,Appetizer,East,Takeaway,20,6.43,0.26,95.16
+2024-06-01,Main Course,South,Dine-in,7,59.47,0.27,303.89
+2024-06-01,Dessert,East,Dine-in,19,40.09,0.17,632.22
+2024-03-05,Main Course,North,Dine-in,16,92.18,0.18,1209.4
+2024-05-13,Dessert,North,Dine-in,15,60.44,0.04,870.34
+2024-10-06,Main Course,West,Takeaway,15,53.55,0.18,658.67
+2024-04-12,Appetizer,South,Dine-in,1,22.75,0.15,19.34
+2024-12-23,Main Course,East,Dine-in,9,33.91,0.11,271.62
+2024-12-19,Appetizer,West,Dine-in,10,66.54,0.03,645.44
+2024-10-17,Dessert,North,Takeaway,4,52.98,0.17,175.89
+2024-11-16,Main Course,West,Dine-in,9,65.86,0.14,509.76
+2024-02-29,Main Course,West,Takeaway,17,55.56,0.12,831.18
+2024-07-26,Beverage,North,Takeaway,7,83.59,0.23,450.55
+2024-02-06,Main Course,South,Takeaway,2,95.52,0.11,170.03
+2024-08-06,Dessert,West,Takeaway,2,74.77,0.18,122.62
+2024-01-14,Main Course,East,Dine-in,4,49.91,0.12,175.68
+2024-10-09,Dessert,North,Takeaway,17,34.47,0.24,445.35
+2024-06-07,Appetizer,South,Dine-in,6,43.82,0.29,186.67
+2024-10-05,Dessert,East,Takeaway,1,35.45,0.06,33.32
+2024-04-16,Beverage,North,Dine-in,16,77.14,0.11,1098.47
+2024-10-21,Beverage,South,Takeaway,16,6.42,0.23,79.09
+2024-03-11,Beverage,West,Dine-in,12,41.77,0.25,375.93
+2024-01-19,Beverage,North,Dine-in,11,91.53,0.12,886.01
+2024-08-19,Main Course,South,Dine-in,6,64.11,0.23,296.19
+2024-06-19,Beverage,South,Dine-in,5,11.86,0.14,51.0
+2024-04-26,Dessert,North,Takeaway,19,94.17,0.07,1663.98
+2024-04-22,Appetizer,North,Takeaway,16,47.48,0.16,638.13
+2024-11-08,Dessert,West,Dine-in,17,6.3,0.25,80.32
+2024-05-27,Appetizer,North,Dine-in,16,5.74,0.29,65.21
+2024-10-30,Dessert,West,Takeaway,11,75.61,0.09,756.86
+2024-06-26,Beverage,South,Dine-in,14,30.61,0.26,317.12
+2024-01-14,Main Course,South,Dine-in,1,78.79,0.16,66.18
+2024-02-06,Appetizer,South,Dine-in,2,58.15,0.18,95.37
+2024-06-21,Main Course,East,Dine-in,18,15.55,0.08,257.51
+2024-12-26,Main Course,East,Takeaway,6,20.91,0.24,95.35
+2024-01-16,Main Course,South,Takeaway,15,86.94,0.19,1056.32
+2024-08-03,Dessert,East,Dine-in,12,40.46,0.23,373.85
+2024-01-07,Appetizer,West,Dine-in,14,18.98,0.28,191.32
+2024-05-11,Beverage,South,Dine-in,11,13.37,0.27,107.36
+2024-07-27,Beverage,North,Dine-in,9,45.99,0.26,306.29
+2024-07-29,Appetizer,North,Takeaway,4,27.63,0.1,99.47
+2024-10-22,Main Course,North,Takeaway,5,94.62,0.28,340.63
+2024-02-06,Beverage,East,Dine-in,14,58.43,0.03,793.48
+2024-04-08,Beverage,East,Takeaway,4,95.85,0.12,337.39
+2024-06-02,Dessert,North,Dine-in,18,13.15,0.16,198.83
+2024-12-05,Main Course,East,Dine-in,7,77.77,0.01,538.95
+2024-12-12,Dessert,West,Takeaway,6,70.45,0.23,325.48
+2024-11-09,Appetizer,East,Takeaway,5,46.55,0.09,211.8
+2024-02-20,Appetizer,South,Takeaway,8,12.0,0.27,70.08
+2024-07-13,Dessert,East,Takeaway,7,95.43,0.18,547.77
+2024-04-06,Dessert,East,Takeaway,6,25.42,0.28,109.81
+2024-06-16,Beverage,East,Dine-in,3,67.35,0.14,173.76
+2024-05-10,Appetizer,North,Dine-in,4,75.09,0.01,297.36
+2024-08-29,Appetizer,East,Takeaway,13,29.3,0.25,285.68
+2024-05-21,Appetizer,East,Takeaway,15,62.89,0.08,867.88
+2024-04-11,Dessert,South,Takeaway,9,13.07,0.2,94.1
+2024-05-06,Beverage,North,Takeaway,10,35.2,0.07,327.36
+2024-09-28,Appetizer,North,Takeaway,19,17.38,0.08,303.8
+2024-05-30,Appetizer,East,Takeaway,17,54.18,0.23,709.22
+2024-10-27,Appetizer,East,Dine-in,5,49.32,0.28,177.55
+2024-10-01,Beverage,West,Dine-in,1,85.77,0.15,72.9
+2024-05-06,Appetizer,East,Takeaway,20,69.77,0.15,1186.09
+2024-05-23,Appetizer,East,Dine-in,14,90.69,0.2,1015.73
+2024-10-02,Dessert,North,Dine-in,14,55.94,0.01,775.33
+2024-09-22,Appetizer,East,Takeaway,14,98.51,0.18,1130.89
+2024-05-26,Beverage,North,Dine-in,16,74.03,0.11,1054.19
+2024-08-25,Main Course,West,Dine-in,11,81.16,0.12,785.63
+2024-03-15,Beverage,South,Takeaway,9,18.85,0.04,162.86
+2024-11-19,Main Course,East,Dine-in,16,60.38,0.17,801.85
+2024-03-18,Dessert,North,Dine-in,4,14.86,0.05,56.47
+2024-11-04,Appetizer,North,Dine-in,8,21.45,0.24,130.42
+2024-08-01,Appetizer,North,Takeaway,13,15.44,0.17,166.6
+2024-01-31,Beverage,North,Takeaway,7,31.81,0.02,218.22
+2024-02-19,Appetizer,West,Takeaway,7,47.21,0.2,264.38
+2024-08-13,Beverage,West,Dine-in,5,29.23,0.25,109.61
+2024-12-16,Main Course,North,Dine-in,9,86.04,0.04,743.39
+2024-03-30,Appetizer,East,Dine-in,15,62.6,0.03,910.83
+2024-03-10,Dessert,West,Dine-in,12,67.45,0.03,785.12
+2024-10-16,Beverage,South,Takeaway,16,43.9,0.24,533.82
+2024-07-29,Dessert,West,Takeaway,11,28.85,0.25,238.01
+2024-08-13,Appetizer,North,Dine-in,15,72.54,0.03,1055.46
+2024-06-14,Beverage,South,Dine-in,18,94.69,0.0,1704.42
+2024-04-01,Beverage,West,Dine-in,5,45.58,0.21,180.04
+2024-12-02,Appetizer,North,Dine-in,12,47.44,0.08,523.74
+2024-07-29,Appetizer,South,Takeaway,10,6.74,0.04,64.7
+2024-06-15,Beverage,East,Dine-in,6,88.11,0.23,407.07
+2024-03-14,Beverage,East,Dine-in,10,91.21,0.01,902.98
+2024-04-17,Main Course,West,Dine-in,14,21.56,0.08,277.69
+2024-12-17,Main Course,West,Takeaway,1,80.07,0.27,58.45
+2024-03-22,Dessert,North,Dine-in,3,43.32,0.21,102.67
+2024-09-23,Dessert,East,Takeaway,18,72.67,0.17,1085.69
+2024-11-02,Beverage,North,Dine-in,9,80.29,0.16,606.99
+2024-09-09,Dessert,East,Takeaway,11,32.15,0.16,297.07
+2024-01-09,Appetizer,West,Takeaway,9,8.51,0.18,62.8
+2024-02-07,Dessert,East,Dine-in,1,16.11,0.04,15.47
+2024-07-03,Appetizer,East,Takeaway,3,83.06,0.06,234.23
+2024-02-08,Beverage,West,Takeaway,2,47.98,0.24,72.93
+2024-05-10,Appetizer,North,Dine-in,20,48.18,0.22,751.61
+2024-05-06,Main Course,West,Takeaway,11,5.85,0.22,50.19
+2024-03-04,Dessert,East,Dine-in,12,5.27,0.22,49.33
+2024-04-19,Main Course,West,Dine-in,17,95.3,0.13,1409.49
+2024-10-21,Appetizer,South,Dine-in,14,68.43,0.11,852.64
+2024-09-30,Main Course,East,Dine-in,2,35.85,0.05,68.11
+2024-08-30,Appetizer,North,Takeaway,5,85.55,0.19,346.48
+2024-02-24,Appetizer,North,Takeaway,19,88.78,0.07,1568.74
+2024-04-27,Beverage,East,Dine-in,9,36.58,0.2,263.38
+2024-12-06,Beverage,East,Takeaway,14,53.84,0.11,670.85
+2024-08-26,Beverage,North,Dine-in,5,57.07,0.28,205.45
+2024-02-17,Beverage,West,Dine-in,8,17.51,0.23,107.86
+2024-03-13,Main Course,West,Dine-in,14,9.25,0.16,108.78
+2024-08-26,Beverage,North,Takeaway,3,70.04,0.26,155.49
+2024-08-02,Beverage,East,Takeaway,13,11.63,0.06,142.12
+2024-10-07,Dessert,South,Takeaway,3,18.04,0.09,49.25
+2024-02-06,Dessert,South,Takeaway,17,64.66,0.28,791.44
+2024-02-24,Appetizer,West,Takeaway,17,67.47,0.28,825.83
+2024-11-25,Dessert,North,Takeaway,14,35.25,0.13,429.34
+2024-11-09,Beverage,South,Takeaway,16,22.64,0.11,322.39
+2024-06-11,Dessert,East,Takeaway,8,68.38,0.29,388.4
+2024-07-27,Dessert,South,Takeaway,9,75.47,0.28,489.05
+2024-10-12,Beverage,East,Dine-in,15,10.27,0.08,141.73
+2024-01-19,Dessert,West,Dine-in,3,34.08,0.05,97.13
+2024-04-02,Beverage,South,Dine-in,8,73.96,0.23,455.59
+2024-07-13,Main Course,East,Dine-in,20,28.02,0.18,459.53
+2024-02-17,Beverage,North,Takeaway,18,39.87,0.01,710.48
+2024-12-25,Beverage,South,Dine-in,15,32.48,0.24,370.27
+2024-07-30,Beverage,North,Dine-in,11,41.69,0.22,357.7
+2024-10-30,Beverage,West,Dine-in,2,78.35,0.26,115.96
+2024-03-29,Beverage,South,Dine-in,10,26.89,0.2,215.12
+2024-12-18,Dessert,South,Takeaway,13,6.88,0.09,81.39
+2024-01-24,Beverage,North,Takeaway,11,81.05,0.09,811.31
+2024-08-01,Appetizer,West,Takeaway,13,8.86,0.21,90.99
+2024-09-13,Beverage,West,Dine-in,1,13.85,0.2,11.08
+2024-01-31,Main Course,South,Dine-in,3,43.14,0.15,110.01
+2024-12-31,Dessert,East,Dine-in,19,37.33,0.01,702.18
+2024-04-29,Beverage,South,Dine-in,15,69.5,0.04,1000.8
+2024-05-01,Beverage,East,Takeaway,5,87.36,0.02,428.06
+2024-05-31,Dessert,East,Takeaway,13,74.74,0.1,874.46
+2024-08-14,Dessert,South,Dine-in,6,10.31,0.1,55.67
+2024-07-03,Main Course,East,Takeaway,11,29.21,0.19,260.26
+2024-04-14,Beverage,South,Takeaway,10,96.89,0.23,746.05
+2024-05-09,Main Course,West,Takeaway,16,14.16,0.16,190.31
+2024-11-17,Dessert,South,Takeaway,10,73.48,0.18,602.54
+2024-12-17,Dessert,West,Dine-in,15,99.48,0.16,1253.45
+2024-04-01,Dessert,East,Takeaway,14,98.31,0.0,1376.34
+2024-07-21,Beverage,West,Dine-in,3,50.89,0.01,151.14
+2024-11-18,Dessert,South,Takeaway,4,97.77,0.24,297.22
+2024-07-01,Beverage,South,Takeaway,13,44.63,0.18,475.76
+2024-01-15,Appetizer,South,Dine-in,7,51.36,0.09,327.16
+2024-01-23,Beverage,East,Dine-in,11,9.57,0.24,80.01
+2024-01-17,Beverage,South,Takeaway,5,67.29,0.3,235.52
+2024-11-06,Beverage,East,Takeaway,9,7.04,0.06,59.56
+2024-02-02,Dessert,South,Takeaway,5,41.08,0.2,164.32
+2024-02-13,Dessert,East,Takeaway,19,42.22,0.22,625.7
+2024-05-14,Dessert,East,Takeaway,15,17.42,0.06,245.62
+2024-03-18,Main Course,East,Dine-in,10,66.96,0.2,535.68
+2024-12-09,Main Course,East,Dine-in,18,42.39,0.15,648.57
+2024-09-23,Dessert,South,Takeaway,3,8.34,0.12,22.02
+2024-12-13,Dessert,East,Dine-in,20,86.51,0.03,1678.29
+2024-12-07,Main Course,West,Takeaway,8,45.76,0.27,267.24
+2024-05-31,Dessert,North,Takeaway,5,49.72,0.22,193.91
+2024-11-23,Appetizer,West,Dine-in,1,75.29,0.18,61.74
+2024-05-10,Dessert,East,Dine-in,3,97.7,0.05,278.44
+2024-03-29,Beverage,West,Takeaway,4,10.99,0.21,34.73
+2024-12-27,Dessert,South,Takeaway,3,43.36,0.27,94.96
+2024-01-05,Dessert,South,Dine-in,17,30.04,0.15,434.08
+2024-12-02,Appetizer,North,Takeaway,11,42.89,0.05,448.2
+2024-03-18,Appetizer,West,Takeaway,1,97.17,0.24,73.85
+2024-08-10,Main Course,West,Dine-in,18,37.73,0.24,516.15
+2024-03-13,Beverage,West,Dine-in,7,20.95,0.11,130.52
+2024-10-15,Dessert,West,Dine-in,9,31.51,0.06,266.57
+2024-11-18,Main Course,East,Takeaway,1,39.28,0.06,36.92
+2024-02-04,Dessert,West,Dine-in,3,28.42,0.28,61.39
+2024-11-13,Dessert,South,Dine-in,13,17.77,0.09,210.22
+2024-04-08,Beverage,East,Dine-in,16,63.77,0.03,989.71
+2024-09-28,Beverage,South,Dine-in,2,45.25,0.27,66.06
+2024-11-14,Main Course,West,Dine-in,6,88.78,0.18,436.8
+2024-03-05,Main Course,East,Dine-in,9,8.68,0.17,64.84
+2024-11-27,Main Course,East,Takeaway,2,26.44,0.07,49.18
+2024-01-10,Dessert,North,Dine-in,11,68.32,0.29,533.58
+2024-10-05,Main Course,South,Dine-in,7,36.47,0.2,204.23
+2024-05-11,Beverage,East,Takeaway,13,72.04,0.17,777.31
+2024-11-15,Appetizer,North,Takeaway,13,10.2,0.16,111.38
+2024-11-05,Beverage,South,Takeaway,3,79.2,0.17,197.21
+2024-05-07,Appetizer,South,Dine-in,17,7.77,0.28,95.1
+2024-04-11,Dessert,North,Takeaway,1,60.15,0.29,42.71
+2024-03-07,Main Course,East,Dine-in,2,92.39,0.27,134.89
+2024-09-26,Main Course,West,Dine-in,11,47.06,0.26,383.07
+2024-03-07,Appetizer,West,Dine-in,10,63.17,0.02,619.07
+2024-02-03,Appetizer,South,Dine-in,2,75.66,0.17,125.6
+2024-05-23,Main Course,West,Takeaway,19,50.5,0.2,767.6
+2024-12-20,Main Course,East,Dine-in,20,93.98,0.21,1484.88
+2024-08-25,Main Course,West,Dine-in,17,64.55,0.15,932.75
+2024-06-25,Appetizer,East,Dine-in,17,48.68,0.25,620.67
+2024-05-23,Beverage,West,Takeaway,10,30.67,0.06,288.3
+2024-01-20,Appetizer,North,Dine-in,11,46.13,0.08,466.84
+2024-04-16,Beverage,North,Takeaway,17,20.49,0.27,254.28
+2024-06-20,Dessert,South,Dine-in,18,30.97,0.24,423.67
+2024-08-03,Beverage,East,Takeaway,3,93.54,0.09,255.36
+2024-09-01,Appetizer,East,Dine-in,5,92.37,0.26,341.77
+2024-07-28,Dessert,East,Takeaway,4,17.2,0.14,59.17
+2024-12-11,Appetizer,East,Takeaway,13,93.12,0.05,1150.03
+2024-10-28,Main Course,North,Takeaway,5,11.51,0.25,43.16
+2024-04-18,Beverage,North,Takeaway,9,64.99,0.21,462.08
+2024-07-29,Appetizer,East,Takeaway,3,13.74,0.28,29.68
+2024-07-10,Beverage,South,Takeaway,17,18.75,0.28,229.5
+2024-09-27,Dessert,West,Dine-in,12,55.22,0.29,470.47
+2024-06-06,Appetizer,West,Dine-in,16,55.21,0.16,742.02
+2024-10-09,Beverage,North,Dine-in,8,11.26,0.27,65.76
+2024-01-03,Appetizer,North,Dine-in,20,45.14,0.04,866.69
+2024-01-24,Main Course,South,Takeaway,16,85.31,0.08,1255.76
+2024-06-01,Main Course,South,Dine-in,13,9.79,0.25,95.45
+2024-10-19,Dessert,North,Takeaway,5,96.68,0.26,357.72
+2024-10-26,Main Course,East,Dine-in,19,48.36,0.26,679.94
+2024-04-11,Beverage,North,Dine-in,2,12.79,0.12,22.51
+2024-12-06,Dessert,South,Dine-in,5,87.12,0.23,335.41
+2024-01-11,Main Course,North,Takeaway,19,60.25,0.06,1076.06
+2024-10-24,Beverage,East,Takeaway,7,69.72,0.15,414.83
+2024-03-24,Appetizer,North,Takeaway,20,77.84,0.02,1525.66
+2024-06-18,Appetizer,North,Dine-in,8,39.27,0.29,223.05
+2024-07-28,Appetizer,North,Dine-in,20,74.77,0.02,1465.49
+2024-02-10,Beverage,South,Dine-in,4,39.5,0.24,120.08
+2024-02-11,Appetizer,South,Takeaway,14,83.07,0.19,942.01
+2024-03-10,Appetizer,South,Takeaway,7,71.83,0.06,472.64
+2024-06-13,Dessert,South,Dine-in,11,6.17,0.16,57.01
+2024-07-05,Appetizer,West,Dine-in,9,40.63,0.2,292.54
+2024-07-28,Beverage,North,Takeaway,11,51.94,0.3,399.94
+2024-08-21,Beverage,West,Dine-in,18,41.39,0.01,737.57
+2024-11-13,Beverage,South,Takeaway,1,42.38,0.26,31.36
+2024-03-13,Appetizer,South,Dine-in,8,29.99,0.26,177.54
+2024-11-26,Dessert,North,Dine-in,11,42.21,0.12,408.59
+2024-12-30,Beverage,North,Dine-in,10,59.23,0.02,580.45
+2024-09-19,Appetizer,East,Takeaway,17,58.42,0.15,844.17
+2024-09-11,Main Course,East,Takeaway,17,27.79,0.17,392.12
+2024-01-06,Appetizer,South,Takeaway,11,98.47,0.16,909.86
+2024-11-25,Dessert,East,Takeaway,14,74.98,0.03,1018.23
+2024-09-01,Main Course,East,Dine-in,7,80.69,0.19,457.51
+2024-09-06,Appetizer,North,Takeaway,9,28.59,0.26,190.41
+2024-12-13,Beverage,East,Dine-in,8,96.69,0.02,758.05
+2024-04-08,Beverage,West,Takeaway,18,69.7,0.06,1179.32
+2024-08-08,Beverage,East,Takeaway,6,12.98,0.0,77.88
+2024-12-25,Main Course,South,Takeaway,2,89.07,0.03,172.8
+2024-10-24,Appetizer,North,Dine-in,7,18.38,0.12,113.22
+2024-03-12,Dessert,West,Takeaway,15,69.58,0.18,855.83
+2024-04-09,Beverage,South,Takeaway,12,42.87,0.29,365.25
+2024-06-29,Beverage,East,Dine-in,9,94.03,0.13,736.25
+2024-06-18,Dessert,East,Dine-in,11,33.76,0.03,360.22
+2024-07-23,Beverage,East,Takeaway,15,11.06,0.24,126.08
+2024-04-25,Appetizer,South,Takeaway,6,38.58,0.02,226.85
+2024-03-14,Dessert,West,Dine-in,1,82.78,0.18,67.88
+2024-02-06,Beverage,North,Takeaway,1,47.39,0.13,41.23
+2024-11-26,Main Course,North,Takeaway,11,66.33,0.15,620.19
+2024-05-13,Appetizer,North,Takeaway,10,85.7,0.23,659.89
+2024-07-21,Appetizer,South,Dine-in,14,78.53,0.08,1011.47
+2024-12-08,Dessert,West,Dine-in,3,21.65,0.11,57.81
+2024-04-03,Appetizer,North,Takeaway,5,25.5,0.06,119.85
+2024-10-13,Beverage,South,Takeaway,6,7.69,0.22,35.99
+2024-03-19,Appetizer,West,Takeaway,17,11.59,0.2,157.62
+2024-04-08,Beverage,North,Dine-in,19,11.02,0.17,173.79
+2024-01-28,Dessert,South,Takeaway,1,60.04,0.12,52.84
+2024-11-07,Appetizer,East,Takeaway,15,24.36,0.26,270.4
+2024-07-08,Main Course,East,Dine-in,16,81.71,0.11,1163.55
+2024-09-17,Dessert,East,Takeaway,11,79.99,0.29,624.72
+2024-11-28,Appetizer,West,Dine-in,18,38.07,0.17,568.77
+2024-02-21,Appetizer,East,Dine-in,4,70.06,0.18,229.8
+2024-07-31,Dessert,North,Dine-in,9,86.78,0.02,765.4
+2024-10-10,Appetizer,East,Dine-in,2,17.58,0.06,33.05
+2024-01-23,Appetizer,East,Takeaway,3,52.62,0.06,148.39
+2024-10-04,Main Course,West,Dine-in,19,74.12,0.12,1239.29
+2024-12-07,Appetizer,West,Takeaway,12,96.7,0.14,997.94
+2024-02-21,Beverage,South,Dine-in,19,73.72,0.1,1260.61
+2024-08-18,Dessert,East,Takeaway,18,81.69,0.05,1396.9
+2024-06-29,Appetizer,West,Takeaway,15,38.39,0.28,414.61
+2024-10-20,Dessert,West,Dine-in,8,91.32,0.19,591.75
+2024-05-01,Beverage,West,Takeaway,13,18.54,0.28,173.53
+2024-09-04,Dessert,South,Takeaway,10,35.04,0.26,259.3
+2024-10-22,Main Course,East,Takeaway,2,8.06,0.06,15.15
+2024-12-24,Appetizer,West,Takeaway,6,11.1,0.11,59.27
+2024-06-20,Beverage,North,Dine-in,2,6.8,0.17,11.29
+2024-04-10,Appetizer,North,Takeaway,17,19.51,0.06,311.77
+2024-06-10,Beverage,North,Takeaway,5,84.89,0.17,352.29
+2024-01-13,Beverage,South,Takeaway,5,34.61,0.22,134.98
+2024-03-27,Dessert,South,Takeaway,13,57.35,0.07,693.36
+2024-09-14,Dessert,West,Dine-in,3,36.09,0.02,106.1
+2024-02-29,Main Course,East,Dine-in,8,10.73,0.22,66.96
+2024-03-09,Main Course,West,Dine-in,12,45.47,0.01,540.18
+2024-07-28,Dessert,East,Takeaway,19,52.1,0.26,732.53
+2024-12-03,Beverage,East,Takeaway,13,92.19,0.27,874.88
+2024-04-12,Dessert,North,Dine-in,19,54.04,0.09,934.35
+2024-07-11,Main Course,East,Dine-in,1,89.64,0.18,73.5
+2024-10-05,Appetizer,West,Takeaway,3,86.92,0.15,221.65
+2024-01-22,Appetizer,North,Dine-in,10,5.37,0.16,45.11
+2024-04-04,Appetizer,East,Takeaway,1,49.14,0.26,36.36
+2024-10-31,Dessert,North,Takeaway,16,59.6,0.01,944.06
+2024-01-29,Beverage,North,Dine-in,15,7.65,0.24,87.21
+2024-09-21,Appetizer,West,Takeaway,8,19.02,0.2,121.73
+2024-10-29,Dessert,North,Dine-in,9,11.36,0.07,95.08
+2024-04-09,Beverage,East,Dine-in,19,58.05,0.16,926.48
+2024-06-29,Appetizer,West,Dine-in,12,85.46,0.1,922.97
+2024-07-07,Main Course,West,Dine-in,6,66.03,0.05,376.37
+2024-02-16,Main Course,South,Takeaway,2,51.72,0.2,82.75
+2024-04-14,Dessert,East,Dine-in,19,69.73,0.07,1232.13
+2024-02-08,Appetizer,East,Dine-in,8,45.94,0.0,367.52
+2024-11-03,Appetizer,West,Takeaway,7,98.9,0.12,609.22
+2024-12-19,Main Course,South,Dine-in,14,30.36,0.0,425.04
+2024-08-27,Appetizer,South,Takeaway,15,58.58,0.0,878.7
+2024-01-28,Beverage,North,Dine-in,7,45.05,0.27,230.21
+2024-01-09,Appetizer,South,Dine-in,10,26.42,0.28,190.22
+2024-11-30,Main Course,South,Takeaway,4,97.31,0.14,334.75
+2024-03-16,Main Course,South,Dine-in,13,37.96,0.13,429.33
+2024-02-29,Main Course,North,Dine-in,16,26.83,0.23,330.55
+2024-01-16,Dessert,East,Dine-in,1,16.15,0.24,12.27
+2024-03-09,Dessert,West,Dine-in,6,57.37,0.12,302.91
+2024-09-28,Main Course,North,Takeaway,3,72.7,0.19,176.66
+2024-01-28,Main Course,North,Takeaway,19,41.78,0.14,682.69
+2024-04-03,Beverage,West,Takeaway,1,78.26,0.17,64.96
+2024-02-03,Dessert,North,Takeaway,19,95.39,0.28,1304.94
+2024-03-10,Main Course,East,Takeaway,12,26.8,0.12,283.01
+2024-02-12,Main Course,East,Dine-in,2,37.24,0.13,64.8
+2024-03-03,Appetizer,South,Takeaway,4,52.53,0.23,161.79
+2024-05-01,Beverage,East,Takeaway,18,21.97,0.22,308.46
+2024-06-14,Beverage,South,Dine-in,18,21.25,0.13,332.78
+2024-03-10,Appetizer,North,Takeaway,11,12.42,0.11,121.59
+2024-05-28,Dessert,South,Takeaway,2,33.43,0.07,62.18
+2024-08-19,Main Course,West,Takeaway,9,62.52,0.3,393.88
+2024-10-02,Main Course,West,Takeaway,17,83.54,0.07,1320.77
+2024-02-02,Beverage,West,Dine-in,16,41.77,0.15,568.07
+2024-12-11,Dessert,East,Dine-in,16,53.19,0.2,680.83
+2024-01-01,Appetizer,West,Takeaway,16,82.78,0.24,1006.6
+2024-01-22,Beverage,West,Takeaway,10,83.33,0.05,791.63
+2024-09-01,Main Course,East,Takeaway,3,88.14,0.18,216.82
+2024-07-28,Beverage,North,Takeaway,19,60.65,0.17,956.45
+2024-12-21,Main Course,West,Takeaway,6,47.8,0.21,226.57
+2024-11-29,Main Course,South,Dine-in,18,59.32,0.12,939.63
+2024-08-03,Dessert,West,Dine-in,17,40.49,0.13,598.85
+2024-01-11,Main Course,South,Dine-in,8,71.59,0.21,452.45
+2024-11-28,Beverage,South,Takeaway,11,91.94,0.23,778.73
+2024-02-28,Beverage,North,Takeaway,1,85.44,0.28,61.52
+2024-09-26,Beverage,North,Dine-in,2,70.67,0.21,111.66
+2024-03-08,Main Course,South,Dine-in,17,43.09,0.22,571.37
+2024-01-05,Beverage,North,Dine-in,4,57.95,0.07,215.57
+2024-08-15,Main Course,North,Takeaway,15,58.67,0.03,853.65
+2024-07-14,Main Course,North,Takeaway,14,90.25,0.15,1073.97
+2024-07-30,Dessert,East,Takeaway,1,31.77,0.2,25.42
+2024-09-16,Dessert,North,Takeaway,18,44.91,0.22,630.54
+2024-07-08,Appetizer,North,Takeaway,9,96.74,0.04,835.83
+2024-04-04,Main Course,East,Takeaway,3,95.02,0.25,213.8
+2024-06-07,Appetizer,South,Takeaway,13,49.09,0.14,548.83
+2024-10-28,Appetizer,North,Dine-in,4,87.24,0.06,328.02
+2024-08-14,Appetizer,East,Takeaway,16,70.68,0.01,1119.57
+2024-05-04,Appetizer,West,Dine-in,18,10.53,0.23,145.95
+2024-01-13,Appetizer,East,Dine-in,9,69.59,0.13,544.89
+2024-10-29,Dessert,East,Dine-in,17,71.5,0.3,850.85
+2024-11-23,Dessert,South,Dine-in,12,46.43,0.1,501.44
+2024-05-29,Appetizer,South,Takeaway,17,37.63,0.0,639.71
+2024-07-24,Beverage,South,Dine-in,3,66.72,0.16,168.13
+2024-06-22,Appetizer,South,Dine-in,11,10.14,0.26,82.54
+2024-09-28,Beverage,North,Takeaway,11,91.83,0.0,1010.13
+2024-02-21,Main Course,West,Takeaway,15,70.92,0.12,936.14
+2024-04-04,Dessert,West,Takeaway,4,20.16,0.09,73.38
+2024-02-16,Dessert,North,Dine-in,1,86.23,0.12,75.88
+2024-02-22,Main Course,East,Dine-in,1,57.31,0.15,48.71
+2024-11-13,Main Course,West,Takeaway,11,18.82,0.28,149.05
+2024-04-19,Appetizer,West,Takeaway,9,68.59,0.25,462.98
+2024-11-21,Beverage,West,Dine-in,13,17.76,0.04,221.64
+2024-08-01,Appetizer,North,Dine-in,13,22.44,0.06,274.22
+2024-02-12,Beverage,East,Dine-in,13,49.59,0.17,535.08
+2024-08-31,Main Course,South,Dine-in,16,44.37,0.28,511.14
+2024-01-06,Beverage,South,Dine-in,18,16.24,0.21,230.93
+2024-10-19,Dessert,South,Takeaway,7,37.96,0.25,199.29
+2024-12-24,Appetizer,South,Dine-in,1,30.12,0.02,29.52
+2024-02-19,Main Course,West,Dine-in,10,64.08,0.03,621.58
+2024-04-25,Beverage,East,Dine-in,4,26.15,0.0,104.6
+2024-07-12,Main Course,South,Dine-in,9,5.57,0.08,46.12
+2024-08-31,Main Course,West,Dine-in,18,23.58,0.01,420.2
+2024-12-28,Beverage,West,Dine-in,15,62.69,0.14,808.7
+2024-07-15,Dessert,West,Dine-in,2,89.0,0.15,151.3
+2024-01-11,Appetizer,East,Takeaway,11,92.61,0.27,743.66
+2024-03-15,Beverage,West,Dine-in,14,52.78,0.2,591.14
+2024-03-18,Main Course,South,Dine-in,4,19.02,0.21,60.1
+2024-03-16,Appetizer,South,Dine-in,4,27.46,0.24,83.48
+2024-04-30,Main Course,North,Dine-in,12,44.42,0.16,447.75
+2024-12-29,Appetizer,South,Takeaway,7,99.74,0.04,670.25
+2024-10-20,Dessert,East,Takeaway,19,6.37,0.19,98.03
+2024-02-27,Appetizer,West,Dine-in,7,97.06,0.12,597.89
+2024-10-18,Beverage,West,Dine-in,11,57.92,0.22,496.95
+2024-03-17,Beverage,South,Dine-in,1,88.2,0.01,87.32
+2024-07-28,Appetizer,South,Takeaway,10,6.21,0.17,51.54
+2024-07-11,Dessert,East,Dine-in,9,62.28,0.11,498.86
+2024-03-29,Main Course,South,Dine-in,12,75.48,0.09,824.24
+2024-12-12,Beverage,North,Takeaway,7,18.33,0.25,96.23
+2024-12-08,Appetizer,West,Takeaway,10,75.22,0.27,549.11
+2024-06-28,Beverage,South,Takeaway,20,10.15,0.25,152.25
+2024-06-24,Dessert,South,Dine-in,16,60.03,0.3,672.34
+2024-10-12,Main Course,East,Takeaway,1,19.1,0.24,14.52
+2024-03-22,Dessert,South,Dine-in,1,65.31,0.26,48.33
+2024-08-16,Appetizer,East,Takeaway,10,74.63,0.18,611.97
+2024-03-19,Main Course,West,Dine-in,6,29.33,0.04,168.94
+2024-09-06,Main Course,South,Dine-in,18,86.98,0.14,1346.45
+2024-01-13,Main Course,West,Dine-in,12,20.96,0.18,206.25
+2024-11-16,Appetizer,West,Dine-in,6,64.18,0.3,269.56
+2024-02-23,Appetizer,North,Takeaway,2,50.56,0.05,96.06
+2024-03-24,Appetizer,North,Dine-in,13,88.18,0.14,985.85
+2024-03-10,Appetizer,East,Dine-in,2,71.92,0.08,132.33
+2024-12-02,Main Course,North,Dine-in,2,36.75,0.22,57.33
+2024-06-11,Appetizer,North,Dine-in,6,92.56,0.0,555.36
+2024-09-11,Main Course,East,Takeaway,6,73.9,0.27,323.68
+2024-11-23,Dessert,North,Dine-in,13,19.31,0.13,218.4
+2024-08-16,Appetizer,West,Dine-in,4,24.06,0.29,68.33
+2024-06-29,Beverage,North,Takeaway,6,65.71,0.08,362.72
+2024-01-26,Dessert,East,Dine-in,2,76.8,0.01,152.06
+2024-08-07,Appetizer,North,Dine-in,8,59.19,0.25,355.14
+2024-02-02,Appetizer,North,Dine-in,8,73.76,0.21,466.16
+2024-02-25,Main Course,North,Dine-in,1,71.22,0.09,64.81
+2024-10-12,Beverage,West,Dine-in,11,17.68,0.03,188.65
+2024-10-26,Main Course,West,Takeaway,2,82.87,0.07,154.14
+2024-07-07,Main Course,East,Dine-in,14,44.52,0.2,498.62
+2024-11-08,Appetizer,North,Dine-in,3,68.42,0.2,164.21
+2024-06-24,Beverage,South,Takeaway,17,59.55,0.0,1012.35
+2024-07-19,Beverage,North,Takeaway,10,75.81,0.07,705.03
+2024-05-28,Main Course,South,Dine-in,19,27.96,0.16,446.24
+2024-08-21,Dessert,West,Dine-in,3,38.13,0.25,85.79
+2024-02-01,Dessert,North,Dine-in,8,25.94,0.04,199.22
+2024-12-09,Beverage,South,Dine-in,13,53.82,0.19,566.72
+2024-11-02,Dessert,South,Takeaway,8,83.35,0.09,606.79
+2024-03-19,Main Course,South,Takeaway,17,72.2,0.02,1202.85
+2024-07-09,Beverage,South,Takeaway,13,7.87,0.23,78.78
+2024-12-25,Beverage,West,Dine-in,9,26.59,0.1,215.38
+2024-11-15,Appetizer,North,Dine-in,15,93.15,0.15,1187.66
+2024-01-02,Beverage,North,Takeaway,3,96.44,0.07,269.07
+2024-10-20,Appetizer,North,Takeaway,6,72.24,0.07,403.1
+2024-02-09,Main Course,South,Dine-in,13,64.22,0.23,642.84
+2024-10-19,Main Course,South,Dine-in,11,84.08,0.07,860.14
+2024-04-29,Beverage,South,Takeaway,17,43.33,0.06,692.41
+2024-05-30,Appetizer,South,Takeaway,15,14.44,0.14,186.28
+2024-08-14,Beverage,West,Takeaway,4,66.01,0.12,232.36
+2024-03-26,Appetizer,South,Dine-in,8,28.99,0.17,192.49
+2024-04-05,Main Course,East,Dine-in,9,79.85,0.2,574.92
+2024-06-22,Appetizer,West,Dine-in,14,75.84,0.04,1019.29
+2024-08-20,Dessert,West,Dine-in,7,50.68,0.1,319.28
+2024-05-31,Appetizer,West,Dine-in,17,58.69,0.11,887.98
+2024-10-18,Appetizer,North,Takeaway,11,16.32,0.3,125.66
+2024-03-25,Dessert,East,Dine-in,11,12.33,0.27,99.01
+2024-12-07,Dessert,North,Dine-in,8,97.86,0.09,712.42
+2024-12-02,Appetizer,West,Takeaway,7,34.07,0.08,219.41
+2024-11-23,Dessert,North,Takeaway,5,21.29,0.24,80.9
+2024-11-09,Beverage,West,Dine-in,6,58.96,0.19,286.55
+2024-10-28,Main Course,West,Dine-in,6,68.29,0.13,356.47
+2024-03-01,Appetizer,West,Dine-in,3,17.51,0.13,45.7
+2024-01-25,Beverage,North,Dine-in,6,5.58,0.02,32.81
+2024-09-24,Main Course,West,Takeaway,7,96.15,0.09,612.48
+2024-07-21,Main Course,South,Dine-in,14,98.35,0.02,1349.36
+2024-03-02,Appetizer,East,Dine-in,9,32.22,0.17,240.68
+2024-12-26,Appetizer,East,Dine-in,2,10.62,0.16,17.84
+2024-11-28,Dessert,South,Takeaway,11,78.7,0.04,831.07
+2024-04-04,Main Course,North,Takeaway,8,43.7,0.29,248.22
+2024-06-01,Main Course,West,Takeaway,3,69.02,0.25,155.3
+2024-03-05,Dessert,West,Dine-in,13,41.65,0.28,389.84
+2024-11-27,Dessert,North,Dine-in,12,46.42,0.0,557.04
+2024-02-28,Appetizer,South,Dine-in,9,6.88,0.17,51.39
+2024-01-01,Beverage,North,Dine-in,16,22.65,0.04,347.9
+2024-09-27,Main Course,East,Dine-in,1,20.01,0.23,15.41
+2024-12-17,Appetizer,South,Dine-in,13,75.59,0.04,943.36
+2024-12-10,Main Course,East,Takeaway,10,17.84,0.1,160.56
+2024-02-21,Beverage,East,Takeaway,12,95.99,0.25,863.91
+2024-10-13,Main Course,North,Dine-in,13,91.05,0.13,1029.78
+2024-12-29,Appetizer,East,Dine-in,9,64.78,0.09,530.55
+2024-02-25,Dessert,West,Takeaway,4,97.53,0.06,366.71
+2024-01-21,Dessert,West,Takeaway,11,5.08,0.25,41.91
+2024-06-26,Appetizer,West,Takeaway,10,77.11,0.01,763.39
+2024-01-11,Main Course,South,Takeaway,8,84.83,0.03,658.28
+2024-12-30,Main Course,South,Takeaway,8,87.09,0.1,627.05
+2024-03-17,Main Course,South,Dine-in,13,30.4,0.2,316.16
+2024-04-30,Dessert,South,Dine-in,10,58.86,0.25,441.45
+2024-08-19,Main Course,North,Dine-in,15,28.53,0.22,333.8
+2024-06-20,Appetizer,South,Takeaway,15,51.33,0.07,716.05
+2024-06-20,Appetizer,South,Dine-in,9,56.25,0.04,486.0
+2024-01-16,Dessert,North,Takeaway,8,45.77,0.18,300.25
+2024-10-19,Dessert,South,Takeaway,4,18.78,0.1,67.61
+2024-11-19,Dessert,East,Dine-in,17,65.68,0.2,893.25
+2024-03-13,Appetizer,South,Takeaway,14,22.88,0.19,259.46
+2024-05-28,Dessert,South,Takeaway,4,33.93,0.13,118.08
+2024-07-27,Beverage,South,Takeaway,1,44.75,0.23,34.46
+2024-12-21,Dessert,South,Dine-in,8,78.46,0.28,451.93
+2024-06-17,Dessert,East,Dine-in,13,85.38,0.03,1076.64
+2024-11-06,Main Course,South,Dine-in,8,48.36,0.18,317.24
+2024-11-25,Main Course,West,Dine-in,17,94.37,0.25,1203.22
+2024-03-10,Main Course,South,Dine-in,20,86.08,0.1,1549.44
+2024-03-17,Beverage,East,Dine-in,12,60.24,0.21,571.08
+2024-03-04,Dessert,South,Dine-in,1,9.33,0.07,8.68
+2024-09-13,Main Course,West,Dine-in,6,88.34,0.07,492.94
+2024-01-02,Main Course,South,Dine-in,5,67.08,0.01,332.05
+2024-11-06,Beverage,North,Takeaway,7,59.32,0.28,298.97
+2024-03-30,Main Course,East,Dine-in,9,37.68,0.08,311.99
+2024-03-01,Appetizer,South,Takeaway,19,96.08,0.01,1807.26
+2024-04-09,Beverage,East,Takeaway,3,96.12,0.08,265.29
+2024-07-24,Beverage,South,Dine-in,4,50.36,0.18,165.18
+2024-10-09,Beverage,North,Takeaway,2,95.65,0.01,189.39
+2024-09-25,Appetizer,North,Dine-in,8,73.2,0.13,509.47
+2024-12-31,Dessert,West,Takeaway,3,57.56,0.28,124.33
+2024-12-19,Main Course,North,Takeaway,20,48.38,0.23,745.05
+2024-07-28,Beverage,South,Takeaway,15,26.22,0.0,393.3
+2024-11-15,Dessert,West,Takeaway,1,18.02,0.17,14.96
+2024-02-04,Beverage,South,Dine-in,9,9.43,0.06,79.78
+2024-06-28,Dessert,South,Dine-in,16,66.25,0.07,985.8
+2024-01-05,Dessert,West,Dine-in,7,97.1,0.07,632.12
+2024-05-28,Main Course,South,Dine-in,14,16.83,0.23,181.43
+2024-01-20,Main Course,West,Takeaway,18,38.36,0.08,635.24
+2024-09-24,Beverage,East,Takeaway,13,13.2,0.29,121.84
+2024-12-02,Dessert,North,Dine-in,2,19.6,0.28,28.22
+2024-12-11,Appetizer,East,Takeaway,12,5.72,0.15,58.34
+2024-07-25,Beverage,South,Dine-in,20,46.03,0.12,810.13
+2024-07-01,Main Course,West,Dine-in,3,62.45,0.26,138.64
+2024-10-05,Main Course,East,Dine-in,18,82.01,0.22,1151.42
+2024-04-29,Beverage,South,Takeaway,4,37.57,0.09,136.75
+2024-01-30,Dessert,West,Dine-in,12,89.71,0.01,1065.75
+2024-06-24,Main Course,West,Takeaway,9,10.48,0.22,73.57
+2024-10-30,Appetizer,East,Dine-in,7,9.74,0.04,65.45
+2024-03-27,Dessert,South,Dine-in,5,31.28,0.09,142.32
+2024-11-12,Dessert,South,Dine-in,10,26.2,0.12,230.56
+2024-09-20,Beverage,North,Dine-in,20,21.97,0.07,408.64
+2024-06-03,Main Course,South,Takeaway,13,81.11,0.3,738.1
+2024-03-27,Beverage,East,Dine-in,18,72.12,0.2,1038.53
+2024-10-07,Beverage,West,Takeaway,13,14.98,0.03,188.9
+2024-01-09,Main Course,East,Takeaway,15,87.9,0.16,1107.54
+2024-09-20,Appetizer,West,Takeaway,4,51.91,0.21,164.04
+2024-08-11,Beverage,East,Takeaway,12,64.08,0.3,538.27
+2024-11-26,Beverage,West,Dine-in,3,13.22,0.0,39.66
+2024-03-22,Beverage,South,Takeaway,1,91.89,0.29,65.24
+2024-08-29,Appetizer,East,Takeaway,17,39.41,0.07,623.07
+2024-03-19,Appetizer,South,Dine-in,15,52.11,0.15,664.4
+2024-02-08,Appetizer,West,Takeaway,13,69.11,0.13,781.63
+2024-01-02,Appetizer,West,Dine-in,13,33.31,0.06,407.05
+2024-07-29,Appetizer,East,Dine-in,6,22.63,0.04,130.35
+2024-10-26,Main Course,South,Takeaway,12,75.23,0.05,857.62
+2024-01-27,Beverage,North,Takeaway,5,15.19,0.25,56.96
+2024-10-02,Beverage,North,Takeaway,3,19.7,0.11,52.6
+2024-09-25,Dessert,East,Takeaway,17,63.33,0.18,882.82
+2024-04-27,Beverage,West,Takeaway,12,49.91,0.25,449.19
+2024-06-24,Beverage,North,Dine-in,6,61.92,0.21,293.5
+2024-05-30,Dessert,North,Dine-in,13,13.31,0.23,133.23
+2024-06-23,Beverage,North,Dine-in,4,42.77,0.14,147.13
+2024-11-25,Appetizer,West,Dine-in,1,35.27,0.21,27.86
+2024-09-11,Dessert,West,Dine-in,1,93.3,0.03,90.5
+2024-03-20,Dessert,West,Dine-in,20,29.83,0.07,554.84
+2024-07-21,Appetizer,North,Takeaway,2,7.93,0.07,14.75
+2024-09-01,Beverage,South,Takeaway,18,99.65,0.18,1470.83
+2024-03-16,Beverage,West,Takeaway,8,89.79,0.08,660.85
+2024-12-11,Appetizer,North,Dine-in,5,75.27,0.01,372.59
+2024-07-10,Appetizer,West,Dine-in,2,27.23,0.03,52.83
+2024-06-17,Main Course,South,Dine-in,9,39.44,0.01,351.41
+2024-12-19,Dessert,South,Takeaway,6,83.47,0.05,475.78
+2024-01-07,Appetizer,East,Dine-in,15,36.13,0.15,460.66
+2024-04-04,Main Course,South,Dine-in,10,31.21,0.28,224.71
+2024-03-01,Main Course,West,Takeaway,7,53.75,0.26,278.42
+2024-02-02,Main Course,East,Takeaway,4,96.53,0.29,274.15
+2024-01-06,Beverage,West,Takeaway,16,74.48,0.12,1048.68
+2024-05-12,Appetizer,South,Takeaway,16,73.08,0.21,923.73
+2024-11-03,Appetizer,South,Takeaway,11,54.31,0.13,519.75
+2024-09-18,Dessert,West,Dine-in,16,97.16,0.05,1476.83
+2024-08-31,Appetizer,East,Dine-in,13,21.17,0.24,209.16
+2024-02-19,Dessert,East,Takeaway,6,62.05,0.26,275.5
+2024-04-19,Main Course,West,Dine-in,19,94.51,0.26,1328.81
+2024-04-05,Main Course,East,Takeaway,7,74.34,0.08,478.75
+2024-04-17,Appetizer,North,Takeaway,10,42.45,0.29,301.4
+2024-05-20,Dessert,North,Dine-in,4,99.56,0.22,310.63
+2024-05-03,Appetizer,East,Dine-in,12,78.65,0.23,726.73
+2024-05-30,Main Course,North,Takeaway,10,17.34,0.26,128.32
+2024-09-08,Appetizer,North,Dine-in,13,31.47,0.02,400.93
+2024-10-11,Appetizer,South,Dine-in,19,87.85,0.02,1635.77
+2024-01-01,Main Course,South,Takeaway,18,39.77,0.22,558.37
+2024-08-11,Appetizer,South,Dine-in,14,71.55,0.06,941.6
+2024-12-22,Beverage,East,Takeaway,12,77.19,0.16,778.08
+2024-05-24,Beverage,South,Dine-in,3,49.47,0.04,142.47
+2024-05-22,Main Course,South,Takeaway,12,40.47,0.04,466.21
+2024-06-16,Dessert,South,Dine-in,7,81.15,0.05,539.65
+2024-05-29,Appetizer,East,Takeaway,15,33.27,0.18,409.22
+2024-08-31,Appetizer,North,Dine-in,11,88.07,0.18,794.39
+2024-06-21,Main Course,North,Dine-in,1,11.77,0.14,10.12
+2024-04-12,Beverage,West,Dine-in,10,91.37,0.19,740.1
+2024-01-14,Appetizer,West,Takeaway,6,10.37,0.07,57.86
+2024-12-21,Main Course,North,Takeaway,8,81.47,0.09,593.1
+2024-06-29,Appetizer,North,Dine-in,16,27.52,0.23,339.05
+2024-04-26,Dessert,West,Takeaway,1,65.0,0.14,55.9
+2024-12-07,Appetizer,South,Takeaway,4,26.36,0.14,90.68
+2024-03-18,Appetizer,West,Dine-in,15,59.67,0.15,760.79
+2024-09-13,Appetizer,West,Takeaway,11,95.82,0.02,1032.94
+2024-04-03,Main Course,West,Takeaway,19,41.84,0.13,691.62
+2024-12-04,Beverage,East,Dine-in,18,31.49,0.29,402.44
+2024-07-12,Beverage,North,Takeaway,19,84.28,0.08,1473.21
+2024-03-07,Appetizer,West,Takeaway,14,13.49,0.14,162.42
+2024-07-03,Dessert,South,Dine-in,8,77.06,0.26,456.2
+2024-04-08,Dessert,North,Dine-in,1,32.89,0.03,31.9
+2024-02-05,Appetizer,North,Takeaway,12,86.47,0.22,809.36
+2024-08-10,Appetizer,South,Takeaway,3,29.19,0.12,77.06
+2024-11-15,Dessert,East,Takeaway,6,61.42,0.11,327.98
+2024-11-02,Dessert,South,Takeaway,10,25.08,0.23,193.12
+2024-04-22,Beverage,South,Takeaway,1,10.49,0.16,8.81
+2024-12-09,Dessert,South,Takeaway,8,7.82,0.06,58.81
+2024-04-07,Main Course,West,Dine-in,13,46.82,0.1,547.79
+2024-09-08,Appetizer,North,Takeaway,6,8.09,0.17,40.29
+2024-01-11,Beverage,East,Takeaway,12,96.38,0.19,936.81
+2024-07-07,Dessert,South,Dine-in,2,8.56,0.19,13.87
+2024-07-28,Main Course,South,Takeaway,13,38.73,0.05,478.32
+2024-05-17,Beverage,East,Takeaway,8,84.5,0.17,561.08
+2024-10-08,Main Course,West,Takeaway,19,67.77,0.21,1017.23
+2024-05-07,Main Course,East,Takeaway,9,99.54,0.19,725.65
+2024-05-31,Beverage,East,Takeaway,1,87.52,0.27,63.89
+2024-11-11,Appetizer,South,Dine-in,17,72.9,0.04,1189.73
+2024-03-16,Dessert,North,Takeaway,10,42.94,0.2,343.52
+2024-05-20,Main Course,North,Takeaway,12,52.06,0.01,618.47
+2024-11-16,Dessert,South,Takeaway,15,20.75,0.23,239.66
+2024-12-05,Dessert,South,Dine-in,8,17.89,0.29,101.62
+2024-03-13,Appetizer,West,Takeaway,19,92.72,0.21,1391.73
+2024-12-24,Beverage,West,Dine-in,18,15.87,0.16,239.95
+2024-11-19,Appetizer,South,Dine-in,7,41.55,0.22,226.86
+2024-12-20,Main Course,East,Takeaway,17,95.79,0.08,1498.16
+2024-08-24,Beverage,East,Takeaway,12,43.33,0.2,415.97
+2024-04-21,Beverage,East,Dine-in,4,58.26,0.23,179.44
+2024-06-28,Main Course,South,Dine-in,13,43.55,0.23,435.94
+2024-08-18,Dessert,North,Takeaway,14,42.22,0.04,567.44
+2024-01-24,Main Course,North,Dine-in,18,16.86,0.27,221.54
+2024-06-07,Beverage,West,Dine-in,15,54.13,0.28,584.6
+2024-03-16,Beverage,West,Dine-in,13,14.76,0.21,151.59
+2024-01-18,Beverage,West,Takeaway,9,95.58,0.2,688.18
+2024-12-01,Beverage,South,Takeaway,13,79.02,0.27,749.9
+2024-12-09,Dessert,East,Dine-in,3,8.37,0.02,24.61
+2024-11-01,Appetizer,West,Dine-in,19,53.83,0.14,879.58
+2024-08-04,Dessert,North,Takeaway,19,44.43,0.07,785.08
